@@ -43,4 +43,6 @@ Mapping is using slam_toolbox and it can be easily modified via params file in c
 
 ## Result
 Result should look like this:
+<p align="center">
 <img src="imgs/map_example.png" alt="" width="600"/>
+</p>
