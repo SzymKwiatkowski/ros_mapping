@@ -8,6 +8,10 @@ Clone repository with submodules:
 git clone --recurse-submodules https://github.com/SzymKwiatkowski/awsim_controllers.git
 ```
 if submodules are not pulled along with project use:
+```bash
+git submodule update
+```
+
 
 ## Requirements
 Slam toolbox:
@@ -36,3 +40,7 @@ ros2 launch mapping view_mapping.launch.py
 ```
 
 Mapping is using slam_toolbox and it can be easily modified via params file in config directory. 
+
+## Result
+Result should look like this:
+<img src="imgs/map_example.png" alt="" width="600"/>
