@@ -5,7 +5,7 @@ Repository uses rplidar along with slam_toolbox to create realtime map.
 
 Clone repository with submodules:
 ```bash
-git clone --recurse-submodules https://github.com/SzymKwiatkowski/awsim_controllers.git
+git clone --recurse-submodules https://github.com/SzymKwiatkowski/rplidar_ros
 ```
 if submodules are not pulled along with project use:
 ```bash
